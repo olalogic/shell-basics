@@ -1,0 +1,2 @@
+#!/bin/bash
+if (( stat -c '%U' 8-James_Bond == 'root' )); then mkdir gotit; fi
