@@ -1,1 +1,1 @@
-working of permission scripts
+shell permission
